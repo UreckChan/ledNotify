@@ -1,4 +1,4 @@
-package com.example.arduinorgb
+package com.ds02sv23.gas
 
 import io.flutter.embedding.android.FlutterActivity
 
